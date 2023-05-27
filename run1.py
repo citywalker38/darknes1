@@ -1,9 +1,9 @@
-# Muhammad Nabil {HunterNblz}
+# -
 
-# Facebook  : https://www.facebook.com/HunterNblz.Real
-# Instagram : https://www.instagram.com/hunternblz
-# Github    : https://github.com/hunternblz
-# Telegram  : https://t.me/HunterNblz
+# Facebook  : -
+# Instagram : -
+# Github    : -
+# Telegram  : -
 
 import os
 import subprocess
